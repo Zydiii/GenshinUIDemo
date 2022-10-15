@@ -21,11 +21,6 @@
 		{
 			"Name": "VRM4U",
 			"Enabled": true
-		},
-		{
-			"Name": "KawaiiPhysics",
-			"Enabled": true,
-			"MarketplaceURL": "KawaiiPhysics : Simple fake Physics for UnrealEngine4&5"
 		}
 	]
 }
